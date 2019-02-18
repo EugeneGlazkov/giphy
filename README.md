@@ -1,2 +1,0 @@
-# giphy
-Created with CodeSandbox
